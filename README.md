@@ -80,3 +80,5 @@ If you're inspired to implement this network in a physical environment, follow t
    2 Tp-link 8-Port Switches
    30 meters of UTP (Unshielded Twisted Pair) Cable: Essential for establishing wired connections between devices.
    22 RJ45 Connectors: Used for terminating UTP cables and ensuring secure and reliable connections.
+
+> This project doesn't allow new collaborations, only read
